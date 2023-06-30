@@ -1,0 +1,41 @@
+
+= Tsumari Suki tte Itai n Dakedo Chapter 16
+
+xref:https://myanimelist.net/manga/121714/Tsumari_Suki_tte_Iitai_n_Dakedo?q=tsumari%20suki&cat=manga[_Tsumari Suki tte Iitai n Dakedo_] is a romance manga series about a talent manager and her client, who is a famous actor.
+
+Most chapters have an author's note at the end.
+The note for chapter 16 describes the series' female lead, Saejima Chitose.
+
+.Legend
+[%autowidth]
+|===
+| Notation  | Description
+
+| Pg#
+| The page number.
+Also used to separate pages.
+
+| N:
+| Narration or text in a non-speech box.
+
+| ... // ...
+| Split speech or thought bubble.
+|===
+
+== Translated script
+
+*Pg32* +
+*N:* Chii-chan // (Saejima Chitose)
+
+*N:* At first I planned a character who "doesn't smile", but in the end she would move the hear away and would show a shining smile.
+That's how I imagined the heroine. // By my estimates that is a very rare character (laugh). // By the way at first... she should have been strong in martial arts, but there was not much room left for that (I had the image of an aikido character). // It was used in the final version, but she was introduced to the manager position in that agency by the doing of Morisaki-san.
+Morisaki-san had connections with the acting group that Chitose was participating in before.
+
+== Edited script
+
+*Pg32* +
+*N:* Chii-chan // (Saejima Chitose)
+
+*N:* At first, I wanted her to be a character who "doesn't smile," but who would tuck her hair back and be grinning brightly.
+That's how I imagined my heroine. // I think that's a really rare type of character (laugh). // By the way...I was initially planning for her to be good at martial arts, but there wasn't enough room left for it (I had the image of an aikido character). // I used the idea in the final version, introducing her as Morisaki-san, the manager of the agency.
+Morisaki-san had connections with Chitose's former acting group.

@@ -1,0 +1,113 @@
+
+= Shiosai no Majo Chapter 6
+
+xref:https://myanimelist.net/manga/135392/Shiosai_no_Majo[_Shiosai no Majo_] is a short manga series about a witch who runs a restaurant where customers can eat food made from their troubles.
+Each chapter sees a new character visit the witch and come to understand their worries by eating her food.
+
+Chapter 6 is a prolonged flashback of a customer who was overcome by feelings of inferiority.
+This section of the script is the witch talking to the customer about their troubles.
+
+.Legend
+[%autowidth]
+|===
+| Notation  | Description
+
+| Pg#
+| The page number.
+Also used to separate pages.
+
+| B:
+| Bubble or speech text
+
+| SFX:
+| Sound effect
+
+| ... // ...
+| Split speech or thought bubble.
+|===
+
+== Translated script
+
+*Pg4* +
+*B:* But actually, what a weird restaurant, huh?
+
+*B:* "A restaurant where you can eat your troubles..."
+
+*B:* What, // do you have a problem with the concept of my restaurant? +
+*B:* Not a problem, just my thoughts. // You're scary.
+
+*Pg5* +
+*B:* So, uh, // somebody asked me a question... +
+*B:* I had a really hard time answering.
+
+*B:* But in the end, I told the truth.
+
+*B:* Which made them really angry, // and they just let out their pent-up frustration at me... +
+*B:* All I did was tell the truth, you know?
+
+*B:* All that deep-seated jealousy and obsession... what a scary person. // I don't know what to do now... +
+*SFX:* Plunk
+
+*B:* Sigh, poor me... +
+*SFX:* Stir stir
+
+*Pg6* +
+*B:* In short, you're stuck as to how to calm that person down-- // that's what's troubling you? +
+*B:* Yeah.
+
+*B:* By the way,
+
+*B:* You kinda remind me of them.
+
+*B:* Bruh.
+
+*Pg7* +
+*B:* You knew they'd be upset but still told the truth, // so you're finding a way to calm them down, right?
+
+*B:* ...Yeah.
+
+*B:* It's not acceptable to not answer sincerely when asked a question, right? +
+*B:* That's not just naïve idealism, // it's a reality that nobody wants, // more than anything.
+
+== Edited script
+
+*Pg4* +
+*B:* This really is a strange business, isn't it?
+
+*B:* "A restaurant where you can eat your troubles..."
+
+*B:* What? // Do you have a problem with the concept? +
+*B:* I don't have a problem. I'm simply voicing my thoughts. // You're scary.
+
+*Pg5* +
+*B:* So, uh... // somebody asked me a question recently... +
+*B:* that I had a hard time answering.
+
+*B:* But in the end, I told them the truth.
+
+*B:* It made them angry, // and they vented their pent-up frustration at me... +
+*B:* All I did was tell the truth, you know?
+
+*B:* All that deep-seated jealousy and obsession... What a scary person. // I don't know what to do now... +
+*SFX:* Plop
+
+*B:* Ahhh, poor me... +
+*SFX:* Stir stir
+
+*Pg6* +
+*B:* In short, you don't know how to calm that person down... // That's what's troubling you? +
+*B:* That's right.
+
+*B:* By the way,
+
+*B:* you kinda remind me of them.
+
+*B:* You...
+
+*Pg7* +
+*B:* You knew they'd be upset but still told the truth, // so you're trying to find a way to calm them down now, right?
+
+*B:* ...Yeah.
+
+*B:* It's not acceptable to give an insincere answer when you're asked a question, right? +
+*B:* That's not just naïve idealism: it's reality. // Nobody wants to acknowledge it, but that's what it is, // more than anything else.

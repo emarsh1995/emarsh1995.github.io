@@ -22,14 +22,11 @@ This may also be where his fascination with mortality comes from: knowing that a
 That fascination also may have come from his personal interest in reading memoirs; he notes early on in his journal that he has read many such books--although he clearly identifies the most with Byron'sfootnote:Byron["Read the 6th & concluding volume of Byron's life--his death peculiarly affecting--I do not want to set him up as my model either in letter or Morals, but cannot cease to admire & love his character. Certainly of all the memoirs of individuals, distinguished or otherwise, Byron is the one with whom I am at home with & sympathize & feel deeply every circumstance connected with him--as tho I experienced them in myself--" (J.2–3)].
 Imagery of abandoned, ruined churches and church yards is recurrent as well, as in the poem titled "The Village Cross":
 
-[quote,C.4]
+[verse,C.4]
 ____
 --But now no other relic here
-
 Beside this ruined broken stone,
-
 The latest token left--alone—
-
 In memory of forgotten prayer.
 ____
 
