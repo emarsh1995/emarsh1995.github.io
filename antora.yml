@@ -5,8 +5,6 @@ version: latest
 asciidoc:
   experimental: true
   source-language: asciidoc@
-  moduledir: '..'
-  imagesdir: 'assets/images'
 
 nav:
 - modules/ROOT/nav.adoc
