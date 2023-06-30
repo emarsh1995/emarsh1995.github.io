@@ -6,7 +6,7 @@ content:
   sources:
   - url: .
     branches: HEAD
-  - url: https://github.com/emarsh1995/emarsh1995.github.io.git
+  - url: https://github.com/emarsh1995/emarsh1995.github.io
     branches: 'master'
 
 ui:
