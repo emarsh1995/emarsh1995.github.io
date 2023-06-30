@@ -1,0 +1,38 @@
+
+= Tristram as Parent, Novel as Child
+
+== Context
+
+This sample is pulled from a December 2019 paper that I wrote for an 18th century satire course.
+It discusses Laurence Sterne's _The Life and Opinions of Tristram Shandy, Gentleman_ and the paternalistic attitude that its narrator--the titular Tristram Shandy--adopts towards his tale.
+
+This section of the paper focuses on the physical quirks of the original text: Sterne regularly challenged the textual medium by printing pages fully saturated with ink, swapping page numbers, and taking other flights of fancy.
+
+For my reading of the text, I referenced xref:https://app.thestorygraph.com/books/e15e2f81-cac2-4994-afcd-2b09b32dfc47[the 2019 printing of _Tristram Shandy_], edited by Judith Hawley.
+
+== Sample
+
+Is the text only one 'child,' though?
+_Tristram Shandy_ is, after all, divided into nine volumes of varying length.
+Two volumes were released per year from 1759 through 1766, with the ninth and final volume being released on its own in 1767 (_Tristram Shandy_ ix).
+This release structure could indicate the novel is divided into three sets of twins and one child born on their own; however, I believe that the text in its final version--a serialized novel in nine parts--comes together to form one complete being, conceived and brought into the world by way of Tristram's endeavour to write a treatise on his "Life and Opinions."
+
+[\...]
+
+The first volume starts by throwing the reader into _Tristram Shandy_'s central focus: the circumstances and manner of Tristram's birth.
+From there, the audience is pulled through various digressions, barely given the time to orient themselves before Tristram addresses the resulting discomfort in chapter four: "I Know [sic] there are readers in the world, as well as many other good people in it, who are no readers at all,--who find themselves ill at ease, unless they are let into the whole secret from first to last, of every thing which concerns you" (Sterne 7).
+He anticipates their difficulty in entering the narrative and explains that he believes he should begin at the beginning—"_ab ovo_" (8)—to provide a fitting basis for his work.
+The reader is then given some space to accustom themselves before being thrust into the digression of the midwife and Yorick, which ends with the parson's death and the solid black page (25–26) inserted in place of words of mourning.
+Some time again is afforded before the next major insertion--a marbled page (145–146), which he includes in an attempt to challenge the reader:
+
+[quote,Tristram Shandy 143]
+I tell you before-hand, you had better throw down the book at once; for without _much reading_, by which your reverence knows, I mean _much knowledge_, you will no more be able to penetrate the moral of the next marbled page [...] than the world with all its sagacity has been able to unravel the many opinions, transactions and truths which still lie mystically hid under the dark veil of the black one.
+
+Beyond the marbled page, Tristram becomes ever more experimental in the text, including tales and odes (157–174), instances of multiple characters speaking at once (182), supposedly fragmented or removed pages (221, 192–202), and lines denoting his vision of the volumes' stories so far (302).
+With each upending of traditionally accepted literary norms, Tristram encourages the reader to be aware of what they are reading and iterates on his techniques to facilitate that awareness.
+These common insertions would likely force the reader to slow down, to re-read certain passages and muse on particular points as they are presented.
+The novel updates its techniques as the audience becomes comfortable with them, the volumes iterating on one another to keep the reader uncomfortable enough to take their time.
+
+== Works cited
+
+Sterne, Laurence. _Tristram Shandy_, edited by Hawley, Judith, W. W. Norton & Company Inc., 2019.

@@ -1,0 +1,6 @@
+
+* xref:index.adoc[]
+
+* xref:academia:introduction.adoc[Academic Samples]
+** xref:academia:tristram-shandy.adoc[_Tristram Shandy_]
+** xref:academia:diary.adoc[Diary of an Unknown Gentleman]

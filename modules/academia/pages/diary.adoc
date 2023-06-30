@@ -1,0 +1,52 @@
+
+= Diary of an Unknown Gentleman
+
+== Context
+
+This sample comes from an April 2020 paper that I wrote for a course exploring the cataloging of time in personal diaries.
+It discusses a diary written by an anonymous 19th century Englishman which found its way to the Queen's University archives.
+The diary was maintained from September 1835 through July 1839, and was used for two purposes: as a journal, and as a commonplace book.
+
+For my discussion of the text, I have formatted my references according to the diary's structure: (J)ournal and \(C)ommonplace book (for example, J.13).
+
+This excerpt focuses on the author's fascination with ruins that he encounters.
+Abandoned churches and run-down graveyards feature in both sections of his diary, and hint at an underlying solemnity and interest in mortality.
+
+All quotes from the diary are transcribed from the original manuscript housed in the Queen's University archives.
+
+== Sample
+
+Examining the poetry that the writer included in his diary is interesting; not only does the reader get to see the modifications the writer made to his works--the physical traces of him having scratched words out and replaced them using pen or pencil (see <<physical-editing,Figure 1>>) or of him having glued pages into the diary's binding (see <<glued-paper,Figure 2>>)—one can also compare the themes in his poetry to the contents of his journal entries.
+The feelings of being displaced may arise from his need to travel for work, which pulled him away from his family and those dear to him--especially during 1835, when the writer's father was in his sickbed and he was receiving updates via latter, as he could not be by his father's side.
+This may also be where his fascination with mortality comes from: knowing that a close family member may die at any time might have caused him to think more deeply on life and death.
+That fascination also may have come from his personal interest in reading memoirs; he notes early on in his journal that he has read many such books--although he clearly identifies the most with Byron'sfootnote:Byron["Read the 6th & concluding volume of Byron's life--his death peculiarly affecting--I do not want to set him up as my model either in letter or Morals, but cannot cease to admire & love his character. Certainly of all the memoirs of individuals, distinguished or otherwise, Byron is the one with whom I am at home with & sympathize & feel deeply every circumstance connected with him--as tho I experienced them in myself--" (J.2–3)].
+Imagery of abandoned, ruined churches and church yards is recurrent as well, as in the poem titled "The Village Cross":
+
+[quote,C.4]
+____
+--But now no other relic here
+
+Beside this ruined broken stone,
+
+The latest token left--alone—
+
+In memory of forgotten prayer.
+____
+
+The piece as a whole focuses on a ruined cross in a village square where a church used to stand.
+Everything besides the cross has fallen to ruin, leaving only the remains of a church spire standing alongside the moss-covered relic.
+There is a similar fascination reflected in the journal, wherein he described visits to ruined churches on days when he did not have personal appointments.
+
+=== Figures
+
+[[physical-editing]]
+.A scan of the manuscript diary demonstrating changes the writer made to his poems.
+image::physical-editing.png[]
+
+[[glued-paper]]
+.A scan of the manuscript diary showing a scrap of paper glued into the book's binding to complete "A Prayer."
+image::glued-paper.png[]
+
+== Works cited
+
+“Diary, 1835-1839,” 1840. MS. Queen's University Archives, Kingston. http://db-archives.library.queensu.ca/index.php/diary.

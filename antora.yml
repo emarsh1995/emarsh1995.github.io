@@ -1,6 +1,12 @@
 name: emilymarsh
 title: Emily Marsh
 version: latest
-start_page: ROOT/introduction.adoc
+
+asciidoc:
+  experimental: true
+  source-language: asciidoc@
+  moduledir: '..'
+  imagesdir: 'assets/images'
+
 nav:
 - modules/ROOT/nav.adoc
