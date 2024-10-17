@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>OpenNMS: Using Nylas ExtractAI :: Emily Marsh</title>
+    <link rel="canonical" href="https://emarsh1995.github.io/emilymarsh/work/opennms-usage-stats.html">
+    <meta name="generator" content="Antora 3.1.9">
+    <link rel="stylesheet" href="../../_/css/site.css">
+  </head>
+  <body class="article">
+<header class="header">
+  <nav class="navbar">
+    <div class="navbar-brand">
+      <a class="navbar-item" href="https://emarsh1995.github.io">Emily Marsh</a>
+      <button class="navbar-burger" aria-controls="topbar-nav" aria-expanded="false" aria-label="Toggle main menu">
+        <span></span>
+        <span></span>
+        <span></span>
+      </button>
+    </div>
+    <div id="topbar-nav" class="navbar-menu">
+      <div class="navbar-end">
+        <a class="navbar-item" href="#">Home</a>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="#">Products</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="#">Product A</a>
+            <a class="navbar-item" href="#">Product B</a>
+            <a class="navbar-item" href="#">Product C</a>
+          </div>
+        </div>
+        <div class="navbar-item has-dropdown is-hoverable">
+          <a class="navbar-link" href="#">Services</a>
+          <div class="navbar-dropdown">
+            <a class="navbar-item" href="#">Service A</a>
+            <a class="navbar-item" href="#">Service B</a>
+            <a class="navbar-item" href="#">Service C</a>
+          </div>
+        </div>
+        <div class="navbar-item">
+          <span class="control">
+            <a class="button is-primary" href="#">Download</a>
+          </span>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+<div class="body">
+<div class="nav-container" data-component="emilymarsh" data-version="">
+  <aside class="nav">
+    <div class="panels">
+<div class="nav-panel-menu is-active" data-panel="menu">
+  <nav class="nav-menu">
+    <button class="nav-menu-toggle" aria-label="Toggle expand/collapse all" style="display: none"></button>
+    <h3 class="title"><a href="../index.html">Emily Marsh</a></h3>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="0">
+<ul class="nav-list">
+  <li class="nav-item" data-depth="1">
+    <a class="nav-link" href="../index.html">Writing portfolio</a>
+  </li>
+  <li class="nav-item" data-depth="1">
+    <button class="nav-item-toggle"></button>
+    <a class="nav-link" href="../academia/introduction.html">Academic Samples</a>
+<ul class="nav-list">
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="../academia/tristram-shandy.html"><em>Tristram Shandy</em></a>
+  </li>
+  <li class="nav-item" data-depth="2">
+    <a class="nav-link" href="../academia/diary.html">Diary of an Unknown Gentleman</a>
+  </li>
+</ul>
+  </li>
+</ul>
+  </li>
+</ul>
+  </nav>
+</div>
+<div class="nav-panel-explore" data-panel="explore">
+  <div class="context">
+    <span class="title">Emily Marsh</span>
+    <span class="version"></span>
+  </div>
+  <ul class="components">
+    <li class="component is-current">
+      <div class="title"><a href="../index.html">Emily Marsh</a></div>
+    </li>
+  </ul>
+</div>
+    </div>
+  </aside>
+</div>
+<main class="article">
+<div class="toolbar" role="navigation">
+<button class="nav-toggle"></button>
+<nav class="breadcrumbs" aria-label="breadcrumbs">
+  <ul>
+    <li><a href="../index.html">Emily Marsh</a></li>
+    <li><a href="opennms-usage-stats.html">OpenNMS: Using Nylas ExtractAI</a></li>
+  </ul>
+</nav>
+<div class="edit-this-page"><a href="https://github.com/emarsh1995/emarsh1995.github.io/edit/main/modules/work/pages/opennms-usage-stats.adoc">Edit this Page</a></div>
+</div>
+  <div class="content">
+<aside class="toc sidebar" data-title="Contents" data-levels="2">
+  <div class="toc-menu"></div>
+</aside>
+<article class="doc">
+<h1 class="page">OpenNMS: Using Nylas ExtractAI</h1>
+<div class="sect1">
+<h2 id="_context"><a class="anchor" href="#_context"></a>Context</h2>
+<div class="sectionbody">
+<div class="paragraph">
+<p>This excerpt is taken from the <a href="#https://docs.opennms.com/horizon/32/deployment/core/getting-started.html" class="xref unresolved">OpenNMS Installation and Configuration guide</a>.
+I worked with developers and Customer Support representatives to document how OpenNMS collects usage statistics.
+You can see my <a href="#https://github.com/OpenNMS/opennms/pull/6046">GitHub pull request</a> for a look at the review process and feedback from my colleagues.</p>
+</div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_sample"><a class="anchor" href="#_sample"></a>Sample</h2>
+<div class="sectionbody">
+<div class="sect2">
+<h3 id="_first_time_sign_in"><a class="anchor" href="#_first_time_sign_in"></a>First-time sign in</h3>
+<div class="paragraph">
+<p>After you start the Horizon core services, you can access the web application at <code>http://core-instance-ip:8980/opennms</code>.
+The default user credentials are as follows:</p>
+</div>
+<div class="ulist">
+<ul>
+<li>
+<p><strong>Username:</strong> <code>admin</code></p>
+</li>
+<li>
+<p><strong>Password:</strong> <code>admin</code></p>
+</li>
+</ul>
+</div>
+<div class="admonitionblock important">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-important" title="Important"></i>
+</td>
+<td class="content">
+After you sign in for the first time, you should immediately change the <code>admin</code> account&#8217;s password to a secure one.
+</td>
+</tr>
+</table>
+</div>
+<div class="paragraph">
+<p>To change your account&#8217;s password, follow these steps:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>On the top menu bar, click menu:Admin[Change Password].</p>
+</li>
+<li>
+<p>Type your current password and new password in the appropriate fields.</p>
+</li>
+<li>
+<p>Confirm your new password, and click <strong>Submit</strong>.</p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>The password is updated.</p>
+</div>
+<div class="paragraph">
+<p>We encourage you to use Horizon with individual user accounts instead of using only the <code>admin</code> account.
+If all users have individual accounts, you can see who is completing tasks (for example, clearing or acknowledging alarms).
+For information on how to create personalized user accounts, see <a href="#https://docs.opennms.com/horizon/32/operation/quick-start/users.html#create-user" class="xref unresolved">Create a new user</a> in the Quick Start guide.</p>
+</div>
+<div class="sect3">
+<h4 id="_usage_statistics"><a class="anchor" href="#_usage_statistics"></a>Usage statistics</h4>
+<div class="paragraph">
+<p>The first time you sign in, Horizon notifies you that anonymized usage statistics are collected and published to <a href="https://stats.opennms.org" class="bare">https://stats.opennms.org</a>.
+The OpenNMS Group uses this information to help determine product use and to improve the Horizon software.
+We do not share it with third parties, and we will not use it for sales purposes.
+Click <strong>Show Me What is Being Sent</strong> to see a list of <a href="#https://docs.opennms.com/horizon/32/operation/deep-dive/admin/configuration/usage-statistics.html" class="xref unresolved">information that we collect</a>.</p>
+</div>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<i class="fa icon-note" title="Note"></i>
+</td>
+<td class="content">
+Admin users can <a href="#https://docs.opennms.com/horizon/32/operation/deep-dive/admin/configuration/usage-statistics.html#disable-data-collection" class="xref unresolved">enable or disable statistics collection</a> at any time.
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</div>
+</div>
+</article>
+  </div>
+</main>
+</div>
+<footer class="footer">
+  <p>This page was built using the Antora default UI.</p>
+  <p>The source code for this UI is licensed under the terms of the MPL-2.0 license.</p>
+</footer>
+<script id="site-script" src="../../_/js/site.js" data-ui-root-path="../../_"></script>
+<script async src="../../_/js/vendor/highlight.js"></script>
+  </body>
+</html>
