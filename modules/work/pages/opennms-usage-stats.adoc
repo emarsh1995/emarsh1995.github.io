@@ -1,0 +1,41 @@
+
+= OpenNMS: Using Nylas ExtractAI
+
+== Context
+
+This excerpt is taken from the xref:https://docs.opennms.com/horizon/32/deployment/core/getting-started.html[OpenNMS Installation and Configuration guide].
+I worked with developers and Customer Support representatives to document how OpenNMS collects usage statistics.
+You can see my xref:https://github.com/OpenNMS/opennms/pull/6046[GitHub pull request] for a look at the review process and feedback from my colleagues.
+
+== Sample
+
+=== First-time sign in
+
+After you start the Horizon core services, you can access the web application at `\http://core-instance-ip:8980/opennms`.
+The default user credentials are as follows:
+
+* *Username:* `admin`
+* *Password:* `admin`
+
+IMPORTANT: After you sign in for the first time, you should immediately change the `admin` account's password to a secure one.
+
+To change your account's password, follow these steps:
+
+. On the top menu bar, click menu:Admin[Change Password].
+. Type your current password and new password in the appropriate fields.
+. Confirm your new password, and click *Submit*.
+
+The password is updated.
+
+We encourage you to use Horizon with individual user accounts instead of using only the `admin` account.
+If all users have individual accounts, you can see who is completing tasks (for example, clearing or acknowledging alarms).
+For information on how to create personalized user accounts, see xref:https://docs.opennms.com/horizon/32/operation/quick-start/users.html#create-user[Create a new user] in the Quick Start guide.
+
+==== Usage statistics
+
+The first time you sign in, Horizon notifies you that anonymized usage statistics are collected and published to https://stats.opennms.org.
+The OpenNMS Group uses this information to help determine product use and to improve the Horizon software.
+We do not share it with third parties, and we will not use it for sales purposes.
+Click *Show Me What is Being Sent* to see a list of xref:https://docs.opennms.com/horizon/32/operation/deep-dive/admin/configuration/usage-statistics.html[information that we collect].
+
+NOTE: Admin users can xref:https://docs.opennms.com/horizon/32/operation/deep-dive/admin/configuration/usage-statistics.html#disable-data-collection[enable or disable statistics collection] at any time.

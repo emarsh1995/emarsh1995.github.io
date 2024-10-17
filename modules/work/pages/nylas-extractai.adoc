@@ -1,0 +1,42 @@
+
+= Nylas: Using Nylas ExtractAI
+
+== Context
+
+This excerpt is taken from xref:https://docs.nylas.com/docs/v3/extract-ai/[Using Nylas ExtractAI].
+I worked with the Engineering team to draft and release this documentation alongside Nylas' new ExtractAI product when it launched in August 2024.
+
+== Sample
+
+=== Activate ExtractAI
+
+First, enable ExtractAI for your application:
+
+. Log in to the Nylas v3 Dashboard and select your application.
+. Click menu:Activate ExtractAI[Enable ExtractAI].
+
+WARNING: ⚠️ **Nylas automatically creates a Pub/Sub channel when you enable ExtractAI**.
+This channel is subscribed to the ExtractAI triggers (`message.intelligence.tracking` and `message.intelligence.order`) by default, and you don't need to further configure it.
+_Do not_ delete the channel from the Notifications page.
+If you do, _the ExtractAI APIs will not work_.
+
+Now, you can connect to an end user's email account by xref:https://docs.nylas.com/docs/v3/quickstart/#create-a-test-grant[authenticating a grant], and begin checking for order and tracking information.
+You can either xref:https://docs.nylas.com/docs/v3/extract-ai/order-consolidation-api/[make API requests] periodically to fetch updated information from Nylas, or xref:set-up-extractai-notifications[get notifications] when the end user receives email messages that meet ExtractAI's requirements.
+
+=== Set up ExtractAI notifications
+
+ExtractAI can generate notifications when a user receives an email message containing information about an e-commerce order or shipment. To set this up...
+
+. In the Nylas Dashboard, select **Notifications** from the left navigation.
+. Click **Create webhook** and add a **name** for the notification settings.
+. Enter your **Webhook URL**. This is where Nylas sends webhook notifications (also called a "callback URL"). This URL must direct to an HTTPS endpoint that's accessible from the public internet.
+. Enable the **ExtractAI** triggers (`message.intelligence.tracking` and `message.intelligence.order`).
+. Click **Create webhook**.
+
+Nylas sends a confirmation notification to your webhook URL. If you don't receive the confirmation notification, make sure you entered your **Webhook URL** correctly.
+
+When your webhook is set up, Nylas automatically starts generating notifications for email messages that contain order or shipment information.
+See the xref:https://docs.nylas.com/docs/v3/notifications/notification-schemas/#extractai-notifications[Notification schemas documentation] for schema examples.
+
+NOTE: 🔍 **Nylas extracts data for grants authenticated before you set up ExtractAI webhooks only**.
+If you want to get up to 30 days of historical email messages, you must authenticate your end users _after_ you configure webhooks for ExtractAI.

@@ -2,6 +2,7 @@ site:
   title: Emily Marsh
   url: https://emarsh1995.github.io
   start_page: ROOT:index.adoc
+  robots: disallow
 
 content:
   sources:

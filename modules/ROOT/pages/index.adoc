@@ -1,18 +1,16 @@
 
-= Writing Portfolio
+= Writing portfolio
 
-This site houses samples of my writing.
-I've created it using xref:https://antora.org/[Antora] and xref:https://asciidoc.org/[AsciiDoc], and it is hosted on xref:https://pages.github.com/[GitHub Pages].
+I've built this site with xref:https://antora.org/[Antora], xref:https://asciidoc.org/[AsciiDoc], and xref:https://pages.github.com/[GitHub Pages] as a home for my writing samples.
+As I continue in my career, I'll add new samples of my work.
 
-As I continue in my career, I will continue to add new samples of my work.
-
-If you want to see my past contributions to documentation for open source projects, you can peruse my xref:https://github.com/emarsh1995/[GitHub account].
+If you want to see my past contributions to documentation for open source projects, you can browse my xref:https://github.com/emarsh1995/[GitHub account].
 
 == About me
 
-For just under a decade, I've worked as a technical writer for companies of every size.
-During this time, I've developed user- and developer-facing documentation, company-wide style guides, and help documentation.
-I've also edited written work in both a professional and academic capacity, and occasionally volunteer with manga scanlation (scan + translation) groups to proofread translated scripts.
+For just over a decade, I've worked as a Technical Writer for companies of every size.
+I've created user- and developer-facing documentation, company style guides, and help articles.
+I've also edited work for my professional and academic careers, and occasionally volunteer with manga scanlation (scan + translation) groups to proofread translated scripts.
 
-My passions lie both in language and technology; I entered the workforce in 2014 as a computer science co-op, but completed my undergraduate and master's degrees studying English language and literature.
-I found my academic niche in the study of medieval English literature (written between the 5th and 15th centuries), and my professional interest in technical documentation.
+My passions lie both in language and technology; I entered the workforce in 2014 as a Computer Science co-op, but completed my Undergraduate and Masters degrees studying English language and literature.
+I found my academic niche studying medieval English literature (written between the 5th and 15th centuries), and my professional interest in technical documentation for anything and everything.

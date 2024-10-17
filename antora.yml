@@ -1,6 +1,6 @@
 name: emilymarsh
 title: Emily Marsh
-version: latest
+version: ~
 
 asciidoc:
   experimental: true
