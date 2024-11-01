@@ -3,7 +3,7 @@
 
 == Context
 
-This excerpt is taken from xref:https://docs.nylas.com/docs/v3/extract-ai/[Using Nylas ExtractAI].
+This excerpt is taken from https://docs.nylas.com/docs/v3/extract-ai/[Using Nylas ExtractAI].
 I worked with the Engineering team to draft and release this documentation alongside Nylas' new ExtractAI product when it launched in August 2024.
 
 == Sample
@@ -20,8 +20,8 @@ This channel is subscribed to the ExtractAI triggers (`message.intelligence.trac
 _Do not_ delete the channel from the Notifications page.
 If you do, _the ExtractAI APIs will not work_.
 
-Now, you can connect to an end user's email account by xref:https://docs.nylas.com/docs/v3/quickstart/#create-a-test-grant[authenticating a grant], and begin checking for order and tracking information.
-You can either xref:https://docs.nylas.com/docs/v3/extract-ai/order-consolidation-api/[make API requests] periodically to fetch updated information from Nylas, or xref:set-up-extractai-notifications[get notifications] when the end user receives email messages that meet ExtractAI's requirements.
+Now, you can connect to an end user's email account by https://docs.nylas.com/docs/v3/quickstart/#create-a-test-grant[authenticating a grant], and begin checking for order and tracking information.
+You can either https://docs.nylas.com/docs/v3/extract-ai/order-consolidation-api/[make API requests] periodically to fetch updated information from Nylas, or xref:set-up-extractai-notifications[get notifications] when the end user receives email messages that meet ExtractAI's requirements.
 
 === Set up ExtractAI notifications
 
@@ -36,7 +36,7 @@ ExtractAI can generate notifications when a user receives an email message conta
 Nylas sends a confirmation notification to your webhook URL. If you don't receive the confirmation notification, make sure you entered your **Webhook URL** correctly.
 
 When your webhook is set up, Nylas automatically starts generating notifications for email messages that contain order or shipment information.
-See the xref:https://docs.nylas.com/docs/v3/notifications/notification-schemas/#extractai-notifications[Notification schemas documentation] for schema examples.
+See the https://docs.nylas.com/docs/v3/notifications/notification-schemas/#extractai-notifications[Notification schemas documentation] for schema examples.
 
 NOTE: 🔍 **Nylas extracts data for grants authenticated before you set up ExtractAI webhooks only**.
 If you want to get up to 30 days of historical email messages, you must authenticate your end users _after_ you configure webhooks for ExtractAI.
