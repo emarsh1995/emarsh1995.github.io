@@ -10,8 +10,3 @@ content:
     branches: HEAD
   - url: https://github.com/emarsh1995/emarsh1995.github.io
     branches: 'master'
-
-ui:
-  bundle:
-    url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
-    snapshot: true
