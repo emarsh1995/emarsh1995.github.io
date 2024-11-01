@@ -6,5 +6,5 @@
 ** xref:academia:diary.adoc[Diary of an Unknown Gentleman]
 
 * xref:work:introduction.adoc[Technical Writing Samples]
-** xref:work:extractai.adoc[Nylas: Using Nylas ExtractAI]
+** xref:work:nylas-extractai.adoc[Nylas: Using Nylas ExtractAI]
 ** xref:work:opennms-usage-stats.adoc[OpenNMS: Usage Statistics]
