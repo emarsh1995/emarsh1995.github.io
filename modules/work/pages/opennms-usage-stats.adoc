@@ -1,5 +1,5 @@
 
-= OpenNMS: Using Nylas ExtractAI
+= OpenNMS: Usage statistics
 
 == Context
 
